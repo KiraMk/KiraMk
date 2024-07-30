@@ -4,6 +4,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.anacpinheiro10@gmail.com)
 
 ![Ana GitHub stats](https://github-readme-stats.vercel.app/api?username=KiraMk&show_icons=true&theme=dracula)
-<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiraMk&layout=compact&langs_count=16&theme=dracula"/>
 
+### Tecnologias que uso
+<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiraMk&layout=compact&langs_count=16&theme=dracula"/>
+<br/>
 Aprendendo mais sobre programação todo dia.
